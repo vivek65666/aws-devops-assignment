@@ -180,21 +180,22 @@ Approximately **4–5 Hours**
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
-Include the following screenshots in your repository:
+### EC2 Dashboard
+![EC2 Dashboard](Screenshot/ec2-dashboard.png)
 
-- EC2 Dashboard
-- Security Group
-- SSH Login
-- Nginx Installation
-- Nginx Status
-- Disk Usage
-- Memory Usage
-- Running Processes
-- Website Hosted on EC2
-- GitHub Repository
-- Docker Hello World
+### Security Group
+![Security Group](Screenshot/security-group.png)
+
+### SSH Login
+![SSH Login](Screenshot/ssh-login.png)
+
+### Website
+![Website](Screenshot/website.png)
+
+### Docker Hello World
+![Docker](Screenshot/docker.png)
 
 ---
 
