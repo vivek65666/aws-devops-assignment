@@ -183,20 +183,19 @@ Approximately **4–5 Hours**
 ## 📷 Screenshots
 
 ### EC2 Dashboard
-![EC2 Dashboard](Screenshot/ec2-dashboard.png)
+![EC2 Dashboard](Screenshot/EC2%20Dashboard.png)
 
 ### Security Group
-![Security Group](Screenshot/security-group.png)
+![Security Group](Screenshot/Security%20Group.png)
 
 ### SSH Login
-![SSH Login](Screenshot/ssh-login.png)
+![SSH Login](Screenshot/SSH%20Login.png)
 
 ### Website
-![Website](Screenshot/website.png)
+![Website](Screenshot/Website.png)
 
 ### Docker Hello World
-![Docker](Screenshot/docker.png)
-
+![Docker Hello World](Screenshot/Docker%20Hello%20World.png)
 ---
 
 # 🔗 GitHub Repository
